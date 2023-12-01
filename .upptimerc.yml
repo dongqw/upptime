@@ -3,14 +3,24 @@ owner: dongqw # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Bee Auth
+    url: https://auth.tob.ee
+  - name: Bee Pass
+    url: https://pass.tob.ee
+  - name: Bee Docs
+    url: https://docs.tob.ee
+  - name: Bee Short URL
+    url: https://tob.ee
+  - name: Bee Subconverter
+    url: https://subs.tob.ee
+  - name: Bee S3
+    url: https://s3.tob.ee
+  - name: Bee Status
+    url: https://status.tob.ee
+  - name: Bee CDN
+    url: https://cdn.tob.ee
+  - name: Bee Portainer
+    url: https://portainer.tob.ee
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
