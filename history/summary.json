@@ -4,18 +4,20 @@
     "url": "https://auth.tob.ee",
     "icon": "https://icons.duckduckgo.com/ip3/auth.tob.ee.ico",
     "slug": "bee-auth",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.53%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
     "time": 1078,
     "timeDay": 1078,
     "timeWeek": 1078,
     "timeMonth": 1078,
     "timeYear": 1078,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-01": 0
+    }
   },
   {
     "name": "Bee Pass",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.tob.ee.ico",
     "slug": "bee-s3",
     "status": "down",
-    "uptime": "0.98%",
-    "uptimeDay": "0.98%",
-    "uptimeWeek": "0.98%",
-    "uptimeMonth": "0.98%",
-    "uptimeYear": "0.98%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 609,
     "timeDay": 609,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-12-01": 2
+      "2023-12-01": 13
     }
   },
   {
@@ -133,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tob.ee.ico",
     "slug": "bee-short-url",
     "status": "down",
-    "uptime": "1.52%",
-    "uptimeDay": "1.52%",
-    "uptimeWeek": "1.52%",
-    "uptimeMonth": "1.52%",
-    "uptimeYear": "1.52%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 673,
     "timeDay": 673,
     "timeWeek": 673,
     "timeMonth": 673,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-12-01": 2
+      "2023-12-01": 13
     }
   },
   {
@@ -153,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/subs.tob.ee.ico",
     "slug": "bee-subconverter",
     "status": "down",
-    "uptime": "0.42%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 425,
     "timeDay": 425,
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2023-12-01": 2
+      "2023-12-01": 13
     }
   },
   {
