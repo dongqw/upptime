@@ -1,7 +1,7 @@
-url: https://subs.tob.ee
+url: $SUBCONVERTER_URL
 status: down
-code: 404
-responseTime: 411
-lastUpdated: 2023-12-01T14:59:52.036Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-01T15:14:13.683Z
 startTime: 2023-12-01T14:58:23.829Z
 generator: Upptime <https://github.com/upptime/upptime>
