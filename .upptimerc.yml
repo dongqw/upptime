@@ -9,10 +9,6 @@ sites:
     url: https://pass.tob.ee
   - name: Bee Docs
     url: https://docs.tob.ee
-  - name: Bee Short URL
-    url: https://tob.ee
-  - name: Bee Subconverter
-    url: https://subs.tob.ee
   - name: Bee S3
     url: https://s3.tob.ee
   - name: Bee Status
@@ -21,6 +17,12 @@ sites:
     url: https://cdn.tob.ee
   - name: Bee Portainer
     url: https://portainer.tob.ee
+  - name: Bee Short URL
+    url: https://tob.ee
+  - name: Bee Subconverter
+    url: https://subs.tob.ee
+  - name: AIA
+    url: https://panel.362436.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
