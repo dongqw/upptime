@@ -1,7 +1,7 @@
 url: https://status.tob.ee
-status: up
-code: 200
-responseTime: 846
-lastUpdated: 2023-12-01T23:14:16.644Z
+status: down
+code: 502
+responseTime: 659
+lastUpdated: 2023-12-02T02:28:57.173Z
 startTime: 2023-12-01T14:58:30.411Z
 generator: Upptime <https://github.com/upptime/upptime>
