@@ -1,7 +1,7 @@
 url: $SUBCONVERTER_URL
-status: up
-code: 200
-responseTime: 1275
-lastUpdated: 2024-03-17T22:58:31.645Z
+status: down
+code: 404
+responseTime: 666
+lastUpdated: 2024-03-17T23:14:03.755Z
 startTime: 2023-12-01T14:58:23.829Z
 generator: Upptime <https://github.com/upptime/upptime>
