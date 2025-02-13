@@ -24,17 +24,17 @@
     "slug": "bee-auth",
     "status": "down",
     "uptime": "74.05%",
-    "uptimeDay": "14.88%",
-    "uptimeWeek": "87.84%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "69.23%",
+    "uptimeDay": "14.17%",
+    "uptimeWeek": "87.74%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "69.22%",
     "time": 1355,
     "timeDay": 1079,
     "timeWeek": 1195,
     "timeMonth": 1875,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2025-02-13": 1001,
+      "2025-02-13": 1012,
       "2025-02-12": 224,
       "2025-02-04": 41,
       "2025-02-03": 27,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-02-13": 1002,
+      "2025-02-13": 1012,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -620,7 +620,7 @@
     "timeMonth": 541,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-02-13": 1002,
+      "2025-02-13": 1012,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -740,7 +740,7 @@
     "timeMonth": 407,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-02-13": 1002,
+      "2025-02-13": 1012,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -832,7 +832,7 @@
     "timeMonth": 740,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-02-13": 1002,
+      "2025-02-13": 1012,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1216,7 +1216,7 @@
     "timeMonth": 850,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-02-13": 1002,
+      "2025-02-13": 1012,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1588,16 +1588,16 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "23.02%",
-    "uptimeWeek": "4.53%",
-    "uptimeMonth": "61.01%",
-    "uptimeYear": "96.75%",
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "23.07%",
+    "uptimeWeek": "4.63%",
+    "uptimeMonth": "61.19%",
+    "uptimeYear": "96.77%",
     "time": 170,
-    "timeDay": 250,
-    "timeWeek": 307,
-    "timeMonth": 266,
+    "timeDay": 239,
+    "timeWeek": 303,
+    "timeMonth": 265,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-02-13": 775,
@@ -1613,7 +1613,7 @@
       "2025-02-03": 1212,
       "2025-02-02": 1255,
       "2025-02-01": 1273,
-      "2025-01-31": 438
+      "2025-01-31": 356
     }
   }
 ]
