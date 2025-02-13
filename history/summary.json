@@ -24,9 +24,9 @@
     "slug": "bee-auth",
     "status": "down",
     "uptime": "74.15%",
-    "uptimeDay": "72.00%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "70.57%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "69.38%",
     "time": 1355,
     "timeDay": 1079,
@@ -34,7 +34,7 @@
     "timeMonth": 1875,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2025-02-13": 179,
+      "2025-02-13": 200,
       "2025-02-12": 224,
       "2025-02-04": 41,
       "2025-02-03": 27,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-02-13": 179,
+      "2025-02-13": 200,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -609,7 +609,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.tob.ee.ico",
     "slug": "bee-status",
     "status": "down",
-    "uptime": "84.53%",
+    "uptime": "84.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -620,7 +620,7 @@
     "timeMonth": 541,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-02-13": 179,
+      "2025-02-13": 200,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -740,7 +740,7 @@
     "timeMonth": 407,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-02-13": 179,
+      "2025-02-13": 200,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -832,7 +832,7 @@
     "timeMonth": 740,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-02-13": 179,
+      "2025-02-13": 200,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1216,7 +1216,7 @@
     "timeMonth": 850,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-02-13": 179,
+      "2025-02-13": 200,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1588,17 +1588,17 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "16.07%",
-    "uptimeWeek": "4.51%",
-    "uptimeMonth": "60.19%",
-    "uptimeYear": "96.68%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "17.48%",
+    "uptimeWeek": "4.57%",
+    "uptimeMonth": "60.40%",
+    "uptimeYear": "96.70%",
     "time": 168,
-    "timeDay": 250,
+    "timeDay": 244,
     "timeWeek": 311,
-    "timeMonth": 268,
-    "timeYear": 178,
+    "timeMonth": 267,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2025-02-13": 112,
       "2025-02-12": 1276,
@@ -1614,7 +1614,7 @@
       "2025-02-02": 1255,
       "2025-02-01": 1273,
       "2025-01-31": 1285,
-      "2025-01-30": 174
+      "2025-01-30": 79
     }
   }
 ]
