@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-02-28": 181,
+      "2025-02-28": 209,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -610,7 +610,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.tob.ee.ico",
     "slug": "bee-status",
     "status": "down",
-    "uptime": "81.74%",
+    "uptime": "81.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -621,7 +621,7 @@
     "timeMonth": 563,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-02-28": 181,
+      "2025-02-28": 209,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -756,7 +756,7 @@
     "timeMonth": 443,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2025-02-28": 182,
+      "2025-02-28": 209,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -863,7 +863,7 @@
     "timeMonth": 762,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-02-28": 182,
+      "2025-02-28": 209,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -1247,7 +1247,7 @@
     "timeMonth": 769,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2025-02-28": 182,
+      "2025-02-28": 209,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -1619,16 +1619,16 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "94.88%",
-    "uptimeDay": "18.75%",
-    "uptimeWeek": "5.96%",
-    "uptimeMonth": "23.50%",
-    "uptimeYear": "93.62%",
-    "time": 178,
-    "timeDay": 246,
-    "timeWeek": 249,
-    "timeMonth": 267,
+    "status": "down",
+    "uptime": "94.90%",
+    "uptimeDay": "20.63%",
+    "uptimeWeek": "6.23%",
+    "uptimeMonth": "23.84%",
+    "uptimeYear": "93.65%",
+    "time": 177,
+    "timeDay": 241,
+    "timeWeek": 247,
+    "timeMonth": 266,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2025-02-28": 181,
@@ -1656,7 +1656,7 @@
       "2025-02-06": 1219,
       "2025-02-05": 1228,
       "2025-02-04": 1210,
-      "2025-02-03": 456
+      "2025-02-03": 309
     }
   }
 ]
