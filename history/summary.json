@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-03-01": 983,
+      "2025-03-01": 998,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -614,14 +614,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "77.32%",
+    "uptimeYear": "77.31%",
     "time": 758,
     "timeDay": 333,
     "timeWeek": 434,
     "timeMonth": 584,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2025-03-01": 983,
+      "2025-03-01": 998,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -750,14 +750,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "77.32%",
+    "uptimeYear": "77.31%",
     "time": 718,
     "timeDay": 307,
     "timeWeek": 434,
     "timeMonth": 432,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2025-03-01": 983,
+      "2025-03-01": 998,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -865,7 +865,7 @@
     "timeMonth": 737,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-03-01": 983,
+      "2025-03-01": 998,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1249,7 +1249,7 @@
     "timeMonth": 686,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2025-03-01": 983,
+      "2025-03-01": 998,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1621,15 +1621,15 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "95.02%",
-    "uptimeDay": "32.35%",
-    "uptimeWeek": "10.19%",
-    "uptimeMonth": "25.27%",
-    "uptimeYear": "93.77%",
+    "status": "down",
+    "uptime": "95.03%",
+    "uptimeDay": "33.40%",
+    "uptimeWeek": "10.34%",
+    "uptimeMonth": "25.49%",
+    "uptimeYear": "93.79%",
     "time": 186,
-    "timeDay": 306,
-    "timeWeek": 260,
+    "timeDay": 302,
+    "timeWeek": 258,
     "timeMonth": 272,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -1657,7 +1657,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1219,
-      "2025-02-05": 623
+      "2025-02-05": 528
     }
   }
 ]
