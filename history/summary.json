@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-03-07": 235,
+      "2025-03-07": 252,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -613,14 +613,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "75.82%",
+    "uptimeYear": "75.81%",
     "time": 756,
     "timeDay": 462,
     "timeWeek": 342,
     "timeMonth": 400,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2025-03-07": 236,
+      "2025-03-07": 252,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -754,14 +754,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "75.82%",
+    "uptimeYear": "75.81%",
     "time": 714,
     "timeDay": 300,
     "timeWeek": 323,
     "timeMonth": 391,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-03-07": 236,
+      "2025-03-07": 252,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -875,7 +875,7 @@
     "timeMonth": 748,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-03-07": 236,
+      "2025-03-07": 252,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -1259,7 +1259,7 @@
     "timeMonth": 703,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2025-03-07": 236,
+      "2025-03-07": 252,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -1631,15 +1631,15 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "28.97%",
-    "uptimeWeek": "34.99%",
-    "uptimeMonth": "85.04%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "30.08%",
+    "uptimeWeek": "35.43%",
+    "uptimeMonth": "85.14%",
+    "uptimeYear": "98.76%",
     "time": 197,
     "timeDay": 260,
-    "timeWeek": 252,
+    "timeWeek": 253,
     "timeMonth": 255,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -1650,7 +1650,7 @@
       "2025-03-03": 986,
       "2025-03-02": 1004,
       "2025-03-01": 1142,
-      "2025-02-28": 308
+      "2025-02-28": 263
     }
   }
 ]
