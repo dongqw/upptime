@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-03-08": 600,
+      "2025-03-08": 629,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -620,7 +620,7 @@
     "timeMonth": 402,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-03-08": 600,
+      "2025-03-08": 629,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -751,7 +751,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.tob.ee.ico",
     "slug": "bee-portainer",
     "status": "down",
-    "uptime": "80.25%",
+    "uptime": "80.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -762,7 +762,7 @@
     "timeMonth": 385,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-03-08": 600,
+      "2025-03-08": 629,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -877,7 +877,7 @@
     "timeMonth": 750,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-03-08": 600,
+      "2025-03-08": 629,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1261,7 +1261,7 @@
     "timeMonth": 695,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2025-03-08": 600,
+      "2025-03-08": 629,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1633,16 +1633,16 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "29.60%",
-    "uptimeWeek": "33.18%",
-    "uptimeMonth": "84.62%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "30.20%",
+    "uptimeWeek": "34.15%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "98.74%",
     "time": 200,
     "timeDay": 263,
-    "timeWeek": 251,
-    "timeMonth": 249,
+    "timeWeek": 250,
+    "timeMonth": 248,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-03-08": 409,
@@ -1652,7 +1652,7 @@
       "2025-03-04": 864,
       "2025-03-03": 986,
       "2025-03-02": 1004,
-      "2025-03-01": 343
+      "2025-03-01": 245
     }
   }
 ]
