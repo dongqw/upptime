@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-03-11": 597,
+      "2025-03-11": 614,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -608,7 +608,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.tob.ee.ico",
     "slug": "bee-status",
     "status": "down",
-    "uptime": "79.76%",
+    "uptime": "79.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -619,7 +619,7 @@
     "timeMonth": 559,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-03-11": 597,
+      "2025-03-11": 614,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -764,7 +764,7 @@
     "timeMonth": 380,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2025-03-11": 597,
+      "2025-03-11": 614,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -882,7 +882,7 @@
     "timeMonth": 766,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-03-11": 597,
+      "2025-03-11": 614,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1266,7 +1266,7 @@
     "timeMonth": 693,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-03-11": 597,
+      "2025-03-11": 614,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1638,14 +1638,14 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "24.35%",
-    "uptimeWeek": "37.19%",
-    "uptimeMonth": "85.55%",
+    "uptimeDay": "25.50%",
+    "uptimeWeek": "37.37%",
+    "uptimeMonth": "85.59%",
     "uptimeYear": "98.80%",
     "time": 207,
-    "timeDay": 254,
+    "timeDay": 249,
     "timeWeek": 256,
     "timeMonth": 252,
     "timeYear": 218,
@@ -1656,7 +1656,7 @@
       "2025-03-08": 969,
       "2025-03-07": 1087,
       "2025-03-06": 934,
-      "2025-03-05": 797
+      "2025-03-05": 779
     }
   }
 ]
