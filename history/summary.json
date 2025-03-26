@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.tob.ee.ico",
     "slug": "bee-auth",
     "status": "up",
-    "uptime": "76.17%",
+    "uptime": "76.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-03-26": 1119,
+      "2025-03-26": 1132,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -613,7 +613,7 @@
     "timeMonth": 602,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2025-03-26": 1119,
+      "2025-03-26": 1132,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -773,7 +773,7 @@
     "timeMonth": 716,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-03-26": 1119,
+      "2025-03-26": 1132,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -906,7 +906,7 @@
     "timeMonth": 777,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-03-26": 1119,
+      "2025-03-26": 1132,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1290,7 +1290,7 @@
     "timeMonth": 770,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2025-03-26": 1119,
+      "2025-03-26": 1132,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1662,14 +1662,14 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "7.75%",
-    "uptimeWeek": "18.66%",
-    "uptimeMonth": "72.71%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "8.60%",
+    "uptimeWeek": "18.78%",
+    "uptimeMonth": "72.76%",
     "uptimeYear": "97.73%",
     "time": 217,
-    "timeDay": 260,
+    "timeDay": 257,
     "timeWeek": 256,
     "timeMonth": 253,
     "timeYear": 227,
@@ -1685,7 +1685,7 @@
       "2025-03-18": 1128,
       "2025-03-17": 918,
       "2025-03-16": 853,
-      "2025-03-15": 179
+      "2025-03-15": 153
     }
   }
 ]
