@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-03-27": 1004,
+      "2025-03-27": 1029,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -613,7 +613,7 @@
     "timeMonth": 593,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-03-27": 1004,
+      "2025-03-27": 1029,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -763,7 +763,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.tob.ee.ico",
     "slug": "bee-portainer",
     "status": "down",
-    "uptime": "77.04%",
+    "uptime": "77.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -774,7 +774,7 @@
     "timeMonth": 715,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-03-27": 1004,
+      "2025-03-27": 1029,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -908,7 +908,7 @@
     "timeMonth": 778,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-03-27": 1004,
+      "2025-03-27": 1029,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1292,7 +1292,7 @@
     "timeMonth": 813,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-03-27": 1004,
+      "2025-03-27": 1029,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1664,14 +1664,14 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "64.28%",
-    "uptimeWeek": "20.55%",
-    "uptimeMonth": "73.19%",
+    "uptimeDay": "65.90%",
+    "uptimeWeek": "20.80%",
+    "uptimeMonth": "73.24%",
     "uptimeYear": "97.77%",
     "time": 218,
-    "timeDay": 274,
+    "timeDay": 276,
     "timeWeek": 262,
     "timeMonth": 254,
     "timeYear": 229,
@@ -1687,7 +1687,7 @@
       "2025-03-19": 805,
       "2025-03-18": 1128,
       "2025-03-17": 918,
-      "2025-03-16": 410
+      "2025-03-16": 386
     }
   }
 ]
