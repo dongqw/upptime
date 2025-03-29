@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-03-29": 947,
+      "2025-03-29": 954,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -613,7 +613,7 @@
     "timeMonth": 604,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-03-29": 947,
+      "2025-03-29": 954,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -765,7 +765,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.tob.ee.ico",
     "slug": "bee-portainer",
     "status": "down",
-    "uptime": "76.73%",
+    "uptime": "76.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -776,7 +776,7 @@
     "timeMonth": 694,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2025-03-29": 947,
+      "2025-03-29": 954,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -912,7 +912,7 @@
     "timeMonth": 784,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-03-29": 947,
+      "2025-03-29": 954,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1296,7 +1296,7 @@
     "timeMonth": 817,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2025-03-29": 947,
+      "2025-03-29": 954,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1668,15 +1668,15 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "53.64%",
-    "uptimeWeek": "25.38%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "97.95%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "54.10%",
+    "uptimeWeek": "25.44%",
+    "uptimeMonth": "75.47%",
+    "uptimeYear": "97.96%",
     "time": 222,
-    "timeDay": 288,
-    "timeWeek": 264,
+    "timeDay": 284,
+    "timeWeek": 262,
     "timeMonth": 256,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -1691,7 +1691,7 @@
       "2025-03-21": 723,
       "2025-03-20": 581,
       "2025-03-19": 805,
-      "2025-03-18": 210
+      "2025-03-18": 170
     }
   }
 ]
