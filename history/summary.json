@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-03-30": 1399,
+      "2025-03-30": 1436,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -613,7 +613,7 @@
     "timeMonth": 601,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-03-30": 1399,
+      "2025-03-30": 1436,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -766,7 +766,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.tob.ee.ico",
     "slug": "bee-portainer",
     "status": "down",
-    "uptime": "76.52%",
+    "uptime": "76.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -777,7 +777,7 @@
     "timeMonth": 689,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-03-30": 1399,
+      "2025-03-30": 1436,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -914,7 +914,7 @@
     "timeMonth": 782,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2025-03-30": 1399,
+      "2025-03-30": 1436,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1298,7 +1298,7 @@
     "timeMonth": 816,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2025-03-30": 1399,
+      "2025-03-30": 1436,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1670,16 +1670,16 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "56.23%",
-    "uptimeWeek": "36.54%",
-    "uptimeMonth": "75.94%",
-    "uptimeYear": "97.99%",
-    "time": 223,
-    "timeDay": 254,
-    "timeWeek": 261,
-    "timeMonth": 255,
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "56.20%",
+    "uptimeWeek": "36.90%",
+    "uptimeMonth": "76.32%",
+    "uptimeYear": "98.03%",
+    "time": 222,
+    "timeDay": 255,
+    "timeWeek": 260,
+    "timeMonth": 254,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-03-30": 627,
@@ -1692,7 +1692,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 723,
-      "2025-03-20": 581
+      "2025-03-20": 414
     }
   }
 ]
