@@ -229,6 +229,7 @@
     "timeMonth": 0,
     "timeYear": 849,
     "dailyMinutesDown": {
+      "2025-04-01": 88,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -592,8 +593,7 @@
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
-      "2024-04-02": 1440,
-      "2024-04-01": 1440
+      "2024-04-02": 1440
     }
   },
   {
@@ -602,17 +602,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.tob.ee.ico",
     "slug": "bee-status",
     "status": "down",
-    "uptime": "76.38%",
+    "uptime": "76.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.01%",
+    "uptimeYear": "68.99%",
     "time": 759,
     "timeDay": 442,
     "timeWeek": 452,
     "timeMonth": 595,
     "timeYear": 779,
     "dailyMinutesDown": {
+      "2025-04-01": 88,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -767,17 +768,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.tob.ee.ico",
     "slug": "bee-portainer",
     "status": "down",
-    "uptime": "76.36%",
+    "uptime": "76.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.01%",
+    "uptimeYear": "68.99%",
     "time": 726,
     "timeDay": 294,
     "timeWeek": 300,
     "timeMonth": 675,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2025-04-01": 88,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -916,6 +918,7 @@
     "timeMonth": 779,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2025-04-01": 88,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -1279,8 +1282,7 @@
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
-      "2024-04-02": 1440,
-      "2024-04-01": 1440
+      "2024-04-02": 1440
     }
   },
   {
@@ -1300,6 +1302,7 @@
     "timeMonth": 809,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2025-04-01": 88,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -1663,8 +1666,7 @@
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
-      "2024-04-02": 1440,
-      "2024-04-01": 1440
+      "2024-04-02": 1440
     }
   },
   {
@@ -1672,19 +1674,20 @@
     "url": "$AIA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "64.86%",
-    "uptimeWeek": "46.16%",
-    "uptimeMonth": "76.38%",
+    "uptimeDay": "68.41%",
+    "uptimeWeek": "47.11%",
+    "uptimeMonth": "76.39%",
     "uptimeYear": "98.03%",
     "time": 223,
-    "timeDay": 260,
-    "timeWeek": 261,
-    "timeMonth": 255,
+    "timeDay": 255,
+    "timeWeek": 260,
+    "timeMonth": 254,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-03-31": 506,
+      "2025-04-01": 0,
+      "2025-03-31": 499,
       "2025-03-30": 632,
       "2025-03-29": 517,
       "2025-03-28": 777,
