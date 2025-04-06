@@ -1,7 +1,7 @@
 url: $AIA_URL
-status: up
-code: 200
-responseTime: 583
-lastUpdated: 2025-04-06T20:12:13.164Z
+status: down
+code: 403
+responseTime: 80
+lastUpdated: 2025-04-06T21:44:39.924Z
 startTime: 2023-12-01T14:59:52.279Z
 generator: Upptime <https://github.com/upptime/upptime>
