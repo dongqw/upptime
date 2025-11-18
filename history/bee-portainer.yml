@@ -1,7 +1,7 @@
 url: https://portainer.tob.ee
-status: down
-code: 500
-responseTime: 556
-lastUpdated: 2025-11-18T13:06:08.766Z
+status: up
+code: 200
+responseTime: 711
+lastUpdated: 2025-11-18T14:40:03.747Z
 startTime: 2023-12-01T14:58:32.744Z
 generator: Upptime <https://github.com/upptime/upptime>
